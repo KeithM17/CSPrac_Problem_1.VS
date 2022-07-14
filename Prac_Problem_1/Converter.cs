@@ -11,6 +11,8 @@ namespace Prac_Problem_1
     {
         //Properties
         private double pMoney;
+
+        private Double ppMoney;
         private String pCurrency1;
         private String pCurrency2;
 
