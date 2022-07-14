@@ -13,6 +13,7 @@ namespace Prac_Problem_1
         private double pMoney;
 
         private Double ppMoney;
+        private double ppCurrency;
         private String pCurrency1;
         private String pCurrency2;
 
